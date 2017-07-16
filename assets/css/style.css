@@ -1,0 +1,55 @@
+
+header {
+	background-color: white;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: auto;
+}
+
+body {
+	margin-left: 160px;
+}
+
+div {
+
+	background-color: white;
+	margin-top: 40px;
+}
+
+h1 {
+
+}
+
+hr {
+	width:600px;
+}
+
+footer {
+	text-align: center;
+	width: 960px;
+}
+
+.pageHead {
+	padding: 20px;
+	margin: 10px;
+}
+
+.pageheader {
+	padding: 20px;
+	margin: 10px;
+}
+
+.name {
+	width: 960px;
+}
+
+.leftSection {
+	width:650px;
+}
+
+.myName {
+	width: 200px;
+	background-color: #4aaaa5;
+	padding: 30px;
+}
